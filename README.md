@@ -1,6 +1,6 @@
 # A copycat of classic Tetris game written in python
 
-to get the game logic straight, I am using python OOP here trying to get everything organise. The purpose is to make the code readable for everyone.
+to get the game logic straight, I am using python OOP here trying to get everything organise. The purpose is to make the code readable for everyone, mostly for myself.
 
 - brick--brick patterns, aka those falling pieces, how those small tiles form a specific brick pattern
 - brick--physical logics like coalition, falling, rotating etc.
